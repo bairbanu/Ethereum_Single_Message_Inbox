@@ -18,7 +18,7 @@ const deploy = async () => {
       arguments: ['Hello!']
     })
     .send({
-      from: accounts[0],gas: 1000000
+      from: accounts[0], gas: 1000000
     })
 
   console.log('Address of account:::', deployedContract.options.address)
