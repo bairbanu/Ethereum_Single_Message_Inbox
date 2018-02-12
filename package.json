@@ -1,7 +1,7 @@
 {
   "name": "Inbox",
   "version": "1.0.0",
-  "description": "",
+  "description": "Single message smart contract inbox",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
